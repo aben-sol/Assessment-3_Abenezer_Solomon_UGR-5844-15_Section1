@@ -1,7 +1,7 @@
 # calculator
 
-Name: Abenezer Solomon
-Sec: 1
-ID: UGR-5844-15
+Name: Abenezer Solomon<br>
+Sec: 1<br>
+ID: UGR-5844-15<br>
 
 [Live Demo](https://aben-sol.github.io/calculator)
